@@ -24,7 +24,7 @@
 <a href="https://codepen.io/wizardishere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@wizardishere" height="30" width="40" /></a>
 <a href="https://dev.to/@wizardishere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@wizardishere" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/m-shushant-bba9501a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-shushant-bba9501a1" height="30" width="40" /></a>
-<a href="https://instagram.com/@wizard_ishere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@wizard_ishere" height="30" width="40" /></a>
+<a href="https://instagram.com/wizard_ishere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@wizard_ishere" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/m_shushant?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@m_shushant" height="30" width="40" /></a>
 </p>
 
