@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm React Developer </h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A Web Developer in making.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wizardishere&label=Profile%20views&color=0e75b6&style=flat" alt="wizardishere" /> </p>
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><img align="right" src="https://c.tenor.com/2mvMfV8_KW0AAAAC/kakashi-hatake-naruto.gif" width="350px" height="200%" style="position:absolute" frameBorder="0" class="giphy-embed"></img></div>
