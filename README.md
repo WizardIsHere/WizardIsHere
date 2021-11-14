@@ -1,23 +1,32 @@
 
 
-<h1 align="center">Hi 👋, I'm React Developer</h1>
+<h1 align="center">Hi 👋, I'm React Developer </h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wizardishere&label=Profile%20views&color=0e75b6&style=flat" alt="wizardishere" /> </p>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><img align="right" src="https://c.tenor.com/2mvMfV8_KW0AAAAC/kakashi-hatake-naruto.gif" width="350px" height="200%" style="position:absolute" frameBorder="0" class="giphy-embed"></img></div>
 
-- 🌱 I’m currently learning **Javascript**
+- ☕ A life that is very dependent upon **Caffeine.**
+
+- 🌱 I’m currently learning **Javascript || Self taught**
+
+- 🥷  **Keep Grinding thats my Ninja Way.**
 
 - 👯 I’m looking to collaborate on **projects**
 
-- 🤝 I’m looking for help with **Javascript 😭**
+- 🤝 I’m looking for help with **full stack technologies and resources to learn😭.**
 
-- 👨‍💻 All of my projects are available at(still under development)) [https://wizardishere.github.io/](https://wizardishere.github.io/)
+- 👨‍💻 All of my projects are available at(still under development): [https://wizardishere.github.io/](https://wizardishere.github.io/)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap**
+- 💬 Ask me about **Anything, Always happy to help.**
 
 - 📫 How to reach me **mshushant236@gmail.com**
 
-- ⚡ Fun fact **I have a broken humor**
+- ⚡ Fun fact **Into Anime "DATTEBAYO"**
+
+- 🥷🏻 Kakashi **The Copy Ninja <_**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
