@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm React Developer </h1>
+<h1 align="center">Hi 👋, I'm Shushant </h1>
 <h3 align="center">A Web Developer in making.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wizardishere&label=Profile%20views&color=0e75b6&style=flat" alt="wizardishere" /> </p>
