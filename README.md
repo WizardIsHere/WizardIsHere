@@ -25,7 +25,6 @@
 
 - ⚡ Fun fact **Into Anime "DATTEBAYO"**
 
-- 🥷🏻 Kakashi **The Copy Ninja <_**
 
 
 
