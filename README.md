@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **mshushant236@gmail.com**
 
-- ⚡ Fun fact **Into Anime "DATTEBAYO"**
+- ⚡ Fun fact: **Into Anime "DATTEBAYO"**
 
 
 
