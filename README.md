@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Shushant </h1>
-<h3 align="center">A React.js Developer.</h3>
+<h3 align="center">A Fullstack  Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wizardishere&label=Profile%20views&color=0e75b6&style=flat" alt="wizardishere" /> </p>
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><img align="right" src="https://c.tenor.com/2mvMfV8_KW0AAAAC/kakashi-hatake-naruto.gif" width="350px" height="200%" style="position:absolute" frameBorder="0" class="giphy-embed"></img></div>
@@ -9,13 +9,13 @@
 
 - ☕ A life that is very dependent upon **Caffeine.**
 
-- 🌱 I’m currently learning **Full-Stack || Self taught**
+- 🌱 I’m currently learning **Docker || Self taught**
 
 - 🥷  **Keep Grinding thats my Ninja Way.**
 
 - 👯 I’m looking to collaborate on **projects**
 
-- 🤝 I’m looking for help with **full stack technologies and resources to learn😭.**
+- 🤝 I’m looking for help with **project ideas😭.**
 
 - 👨‍💻 All of my projects are available at(still under development): [https://wizardishere.github.io/](https://wizardishere.github.io/)
 
